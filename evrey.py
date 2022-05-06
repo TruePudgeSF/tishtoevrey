@@ -121,15 +121,15 @@ if xal==1:
         for a in 'Тест Бори добавлен в материалы дела':
             print(a,end='')
         print('\n')
-        time.sleep(0.9)
+        time.sleep(2.5)
         for a in 'Ты: Там, где у меня ошибки, у Бори наоборот правильные ответы, а в остальном у него все неправльно!':
             print(a,end='')
         print('\n')
-        time.sleep(1)
+        time.sleep(3)
         for a in 'Ольга Михайловна: Аа? Х-хотя знаешь, у тебя один из терминов написаан  некорректно и я посставила тебе 4':
             print(a,end='')
         print('\n')
-        time.sleep(1)
+        time.sleep(4)
         for a in 'Выбрать док-во: Мой тест, сравнение с тестом ерофея':
             print(a,end='')
         print('\n')
@@ -138,21 +138,21 @@ if xal==1:
             for a in 'Ты: У нас с Ерофеем все термины полностью совпадают':
                 print(a,end='')
             print('\n')
-            time.sleep(1)
+            time.sleep(3)
         elif b==1:
             for a in 'Ты :Посмотрите на обратную сторону моего листка':
                 print(a,end='')
             print('\n')
-            time.sleep(1)
+            time.sleep(3)
             for a in 'Ты: Я выделил выделителем те термины, которые я написал. Их всего три как и должно быть':
                 print(a,end='')
             print('\n')
-            time.sleep(1.3)
+            time.sleep(3)
             for a in 'И ПОД ВСЕМИ ПОСТАВЛЕНЫ ПЛЮСЫ!':
                 print(a,end='')
             print('\n')
-            time.sleep(1.2)
-            for a in 'Ольга Михайловна:':
+            time.sleep(3)
+            for a in 'Миша: передаю привет Ерофею)))))':
                 print(a,end='')
             print('\n')   
             time.sleep(1)
